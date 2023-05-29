@@ -1,0 +1,13 @@
+.patient__name{
+    margin-right: 95%;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px;
+    color: rgb(74, 99, 200);;
+}
+.registration__text{
+    margin-left: -67%;
+}
+.date__of{
+    margin-left: -80%;
+}

@@ -1,0 +1,57 @@
+.heading{
+    color:  rgb(34, 63, 180);
+
+}
+.about__us{
+    width: 70%;
+    height: 20%;
+    margin-top: 3%;
+    margin-left: 15%;
+    color: rgb(74, 99, 200);
+    margin-bottom: 7%;
+}
+.wrap{
+    margin-left: 4%;
+width: 95%;
+
+display: flex;
+justify-content: space-between;
+}
+.img__size{
+    height: 150px;
+}
+
+.card__size{
+    height: 220px;
+    
+}
+.card__text{
+    font-size: 25px;
+    font-weight: bold;
+    color:  rgb(34, 63, 180);
+    margin-bottom: -2px;
+}
+.heading2{
+    color:  rgb(34, 63, 180);
+    font-weight: bold;
+    margin-top: 8%;
+    
+}
+.insurance__text{
+    color: rgb(74, 99, 200);
+    font-size: 19px;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+.wrap2{
+    width: 70%;
+display:flex;
+margin-left: 16%;
+    margin-bottom: 4%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.insurance__image{
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,53 @@
+.doctor__form{
+    padding: 2%;
+    
+    background-color:rgba(146, 146, 244,0.2);
+}
+.asterik{
+    color: red;
+}
+.form__entery1{
+    margin-left: -84%;
+    
+}
+.form__entery2{
+    margin-left: -85%;
+}
+.form__entery3{
+    margin-left: -87%;
+}
+.form__entery4{
+    margin-left: -47%;
+}
+.form__entery5{
+    margin-left: -63%;
+}
+.form__entery6{
+    margin-left: -73%;
+}
+.form__entery7{
+    margin-left: -91%;
+}
+.form__entery8{
+    margin-left: -87%;
+}
+.input__box{
+  margin-bottom: 3%;
+    width: 100%;
+    background-color: white;
+}
+.input__box2{
+    margin-bottom: 5%;
+    width: 300%;
+    background-color: white;
+}
+.submit__buton{
+    background-color:  rgb(49, 157, 157);
+    width: 10%;
+    border: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
